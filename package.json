@@ -15,7 +15,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://github.com/bhavyasinghal06/tic-tac-toe",
+  "homepage": " https://bhavyasinghal06.github.io/tic-tac-toe/",
 
   "scripts": {
     "start": "react-scripts start",
